@@ -33,7 +33,8 @@ requirejs.config({
 });
 
 //>>excludeStart("build", true);
-var DEBUG = true;
+var DEBUG = true,
+    CORDOVA = false;
 //>>excludeEnd("build");
 
 define(['durandal/system', 'durandal/app', 'durandal/viewLocator', 'modules/initializer', 'bootstrap'],  function (system, app, viewLocator, initializer) {
