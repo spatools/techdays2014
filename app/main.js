@@ -1,21 +1,32 @@
 requirejs.config({
     paths: {
         'text': '../bower_components/requirejs-text/text',
-        'durandal': '../bower_components/durandal/js',
-        'plugins': '../bower_components/durandal/js/plugins',
-        'transitions': '../bower_components/durandal/js/transitions',
+        'css': '../bower_components/require-css/css',
+
         'knockout': '../bower_components/knockout.js/knockout-2.3.0.debug',
         'jquery': '../bower_components/jquery/jquery',
         'bootstrap': '../bower_components/bootstrap/dist/js/bootstrap',
         'modernizr': '../bower_components/modernizr/modernizr',
+
+        'durandal': '../bower_components/durandal/js',
+        'plugins': '../bower_components/durandal/js/plugins',
+        'transitions': '../bower_components/durandal/js/transitions',
+
+        'promise': '../bower_components/promise-ext/dist/promise',
+        'prism': '../bower_components/prismjs/prism',
     },
     shim: {
-    bootstrap: {
+        bootstrap: {
             deps: ['jquery'],
             exports: 'jQuery'
         },
-    modernizr: {
+
+        modernizr: {
             exports: 'Modernizr'
+        },
+
+        prism: {
+            exports: 'Prism'
         }
     }
 });
