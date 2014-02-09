@@ -1,1 +1,1 @@
-﻿define(["./ui/highlight"], function () { });
+﻿define(["./ui/highlight", "./ui/dialogs"], function () { });
