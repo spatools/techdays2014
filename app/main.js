@@ -13,6 +13,7 @@ requirejs.config({
         'transitions': '../bower_components/durandal/js/transitions',
 
         'promise': '../bower_components/promise-ext/dist/promise',
+        'math': '../bower_components/geomath/dist/math',
         'prism': '../bower_components/prismjs/prism',
     },
     shim: {
