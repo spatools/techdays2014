@@ -1,13 +1,19 @@
 {
-	"name": "org.spatools.techdays",
-	"version": "0.1.0",
-	"private": true,
-	"dependencies": {
-		"bootstrap": ">=3.0.0",
-		"font-awesome": ">=4.0.0",
-		"modernizr": "~2.6.2",
-		"durandal": ">=2.0.0",
-		"durandal-almond": "master",
-		"json2": "*"
-	}
+  "name": "org.spatools.techdays",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "bootstrap": ">=3.0.0",
+    "font-awesome": ">=4.0.0",
+    "modernizr": "~2.6.2",
+    "durandal": ">=2.0.0",
+    "durandal-almond": "master",
+    "json2": "*",
+    "prismjs": "*",
+    "require-css": "~0.1.2",
+    "promise-ext": "~0.2.6"
+  },
+  "resolutions": {
+    "requirejs": "~2.1.10"
+  }
 }
