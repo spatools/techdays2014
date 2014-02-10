@@ -1,0 +1,1 @@
+{"prepare_queue":{"installed":[],"uninstalled":[]},"config_munge":{"config.xml":{"/*":{"<feature name=\"Notification\"><param name=\"wp-package\" value=\"Notification\" /></feature>":1}}},"installed_plugins":{"org.apache.cordova.dialogs":{"PACKAGE_NAME":"{0DE1F6A0-2E15-4939-A3E4-F54A59B3FE07}"}},"dependent_plugins":{}}
