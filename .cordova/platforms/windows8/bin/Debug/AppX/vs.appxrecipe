@@ -17,7 +17,7 @@
     <AppXManifest Include="C:\Projects\techdays2014\.cordova\platforms\windows8\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-02-10T00:53:59.534</Modified>
+      <Modified>2014-02-10T01:02:35.506</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -43,99 +43,99 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projects\techdays2014\.cordova\platforms\windows8\www\assets\logo_mstechdays.jpg">
       <PackagePath>www\assets\logo_mstechdays.jpg</PackagePath>
-      <Modified>2014-02-10T00:50:41.615</Modified>
+      <Modified>2014-02-10T01:02:19.344</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projects\techdays2014\.cordova\platforms\windows8\www\cordova.js">
       <PackagePath>www\cordova.js</PackagePath>
-      <Modified>2014-02-10T00:50:41.994</Modified>
+      <Modified>2014-02-10T01:02:19.806</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projects\techdays2014\.cordova\platforms\windows8\www\cordova_plugins.js">
       <PackagePath>www\cordova_plugins.js</PackagePath>
-      <Modified>2014-02-10T00:50:42.395</Modified>
+      <Modified>2014-02-10T01:02:20.153</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projects\techdays2014\.cordova\platforms\windows8\www\js\app.js">
       <PackagePath>www\js\app.js</PackagePath>
-      <Modified>2014-02-10T00:50:41.962</Modified>
+      <Modified>2014-02-10T01:02:19.780</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projects\techdays2014\.cordova\platforms\windows8\www\js\libs.js">
       <PackagePath>www\js\libs.js</PackagePath>
-      <Modified>2014-02-10T00:50:41.824</Modified>
+      <Modified>2014-02-10T01:02:19.623</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projects\techdays2014\.cordova\platforms\windows8\www\plugins\org.apache.cordova.dialogs\src\windows8\NotificationProxy.js">
       <PackagePath>www\plugins\org.apache.cordova.dialogs\src\windows8\NotificationProxy.js</PackagePath>
-      <Modified>2014-02-10T00:50:42.403</Modified>
+      <Modified>2014-02-10T01:02:20.160</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projects\techdays2014\.cordova\platforms\windows8\www\plugins\org.apache.cordova.dialogs\www\notification.js">
       <PackagePath>www\plugins\org.apache.cordova.dialogs\www\notification.js</PackagePath>
-      <Modified>2014-02-10T00:50:42.407</Modified>
+      <Modified>2014-02-10T01:02:20.162</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projects\techdays2014\.cordova\platforms\windows8\www\css\app.css">
       <PackagePath>www\css\app.css</PackagePath>
-      <Modified>2014-02-10T00:50:41.620</Modified>
+      <Modified>2014-02-10T01:02:19.355</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projects\techdays2014\.cordova\platforms\windows8\www\css\libs.css">
       <PackagePath>www\css\libs.css</PackagePath>
-      <Modified>2014-02-10T00:50:41.626</Modified>
+      <Modified>2014-02-10T01:02:19.360</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projects\techdays2014\.cordova\platforms\windows8\www\css\platform.css">
       <PackagePath>www\css\platform.css</PackagePath>
-      <Modified>2014-02-10T00:50:41.844</Modified>
+      <Modified>2014-02-10T01:02:19.648</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projects\techdays2014\.cordova\platforms\windows8\www\fonts\fontawesome-webfont.eot">
       <PackagePath>www\fonts\fontawesome-webfont.eot</PackagePath>
-      <Modified>2014-02-10T00:50:41.654</Modified>
+      <Modified>2014-02-10T01:02:19.383</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projects\techdays2014\.cordova\platforms\windows8\www\fonts\glyphicons-halflings-regular.eot">
       <PackagePath>www\fonts\glyphicons-halflings-regular.eot</PackagePath>
-      <Modified>2014-02-10T00:50:41.707</Modified>
+      <Modified>2014-02-10T01:02:19.437</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projects\techdays2014\.cordova\platforms\windows8\www\fonts\fontawesome-webfont.svg">
       <PackagePath>www\fonts\fontawesome-webfont.svg</PackagePath>
-      <Modified>2014-02-10T00:50:41.669</Modified>
+      <Modified>2014-02-10T01:02:19.394</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projects\techdays2014\.cordova\platforms\windows8\www\fonts\glyphicons-halflings-regular.svg">
       <PackagePath>www\fonts\glyphicons-halflings-regular.svg</PackagePath>
-      <Modified>2014-02-10T00:50:41.716</Modified>
+      <Modified>2014-02-10T01:02:19.453</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projects\techdays2014\.cordova\platforms\windows8\www\fonts\fontawesome-webfont.ttf">
       <PackagePath>www\fonts\fontawesome-webfont.ttf</PackagePath>
-      <Modified>2014-02-10T00:50:41.679</Modified>
+      <Modified>2014-02-10T01:02:19.403</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projects\techdays2014\.cordova\platforms\windows8\www\fonts\glyphicons-halflings-regular.ttf">
       <PackagePath>www\fonts\glyphicons-halflings-regular.ttf</PackagePath>
-      <Modified>2014-02-10T00:50:41.722</Modified>
+      <Modified>2014-02-10T01:02:19.464</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projects\techdays2014\.cordova\platforms\windows8\www\fonts\fontawesome-webfont.woff">
       <PackagePath>www\fonts\fontawesome-webfont.woff</PackagePath>
-      <Modified>2014-02-10T00:50:41.686</Modified>
+      <Modified>2014-02-10T01:02:19.411</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projects\techdays2014\.cordova\platforms\windows8\www\fonts\glyphicons-halflings-regular.woff">
       <PackagePath>www\fonts\glyphicons-halflings-regular.woff</PackagePath>
-      <Modified>2014-02-10T00:50:41.728</Modified>
+      <Modified>2014-02-10T01:02:19.471</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projects\techdays2014\.cordova\platforms\windows8\www\fonts\FontAwesome.otf">
       <PackagePath>www\fonts\FontAwesome.otf</PackagePath>
-      <Modified>2014-02-10T00:50:41.694</Modified>
+      <Modified>2014-02-10T01:02:19.418</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projects\techdays2014\.cordova\platforms\windows8\www\index.html">
       <PackagePath>www\index.html</PackagePath>
-      <Modified>2014-02-10T00:50:41.846</Modified>
+      <Modified>2014-02-10T01:02:19.651</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projects\techdays2014\.cordova\platforms\windows8\www\LICENSE">
       <PackagePath>www\LICENSE</PackagePath>
-      <Modified>2014-02-10T00:50:41.832</Modified>
+      <Modified>2014-02-10T01:02:19.632</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projects\techdays2014\.cordova\platforms\windows8\www\NOTICE">
       <PackagePath>www\NOTICE</PackagePath>
-      <Modified>2014-02-10T00:50:41.835</Modified>
+      <Modified>2014-02-10T01:02:19.636</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projects\techdays2014\.cordova\platforms\windows8\www\README.md">
       <PackagePath>www\README.md</PackagePath>
-      <Modified>2014-02-10T00:50:41.837</Modified>
+      <Modified>2014-02-10T01:02:19.641</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projects\techdays2014\.cordova\platforms\windows8\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2014-02-10T00:53:59.357</Modified>
+      <Modified>2014-02-10T01:02:35.434</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

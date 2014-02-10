@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deployment AppPlatformVersion="8.0" xmlns="http://schemas.microsoft.com/windowsphone/2012/deployment">
+  <DefaultLanguage code="en-US" xmlns="" />
+  <Languages xmlns="">
+    <Language code="en-US" />
+  </Languages>
+  <App Author="TechDays Author" BitsPerPixel="32" Description="TechDays 2014 SPA Demo" Genre="apps.normal" ProductID="{A03EE6AA-9A2C-4948-99F9-CD2C60C977E0}" Publisher="TechDays Publisher" PublisherID="{db093ed5-53b1-45f7-af72-751e8f36ab80}" RuntimeType="Silverlight" Title="TechDays" Version="0.0.1" xmlns="">
+    <IconPath IsRelative="true" IsResource="false">res/icons/icon-62-tile.png</IconPath>
+    <Capabilities>
+      <Capability Name="ID_CAP_WEBBROWSERCOMPONENT" />
+      <Capability Name="ID_CAP_NETWORKING" />
+    </Capabilities>
+    <Tasks>
+      <DefaultTask Name="_default" NavigationPage="MainPage.xaml" />
+    </Tasks>
+    <Tokens>
+      <PrimaryToken TaskName="_default" TokenID="TechDays">
+        <TemplateFlip>
+          <SmallImageURI IsRelative="true" IsResource="false">res/icons/icon-48.png</SmallImageURI>
+          <Count>0</Count>
+          <BackgroundImageURI IsRelative="true" IsResource="false">res/icons/icon-173-tile.png</BackgroundImageURI>
+          <Title>TechDays 2014 SPA</Title>
+          <BackContent></BackContent>
+          <BackBackgroundImageURI IsRelative="true" IsResource="false"></BackBackgroundImageURI>
+          <BackTitle></BackTitle>
+          <DeviceLockImageURI IsRelative="true" IsResource="false"></DeviceLockImageURI>
+          <HasLarge>false</HasLarge>
+        </TemplateFlip>
+      </PrimaryToken>
+    </Tokens>
+    <ScreenResolutions>
+      <ScreenResolution Name="ID_RESOLUTION_WVGA" />
+      <ScreenResolution Name="ID_RESOLUTION_WXGA" />
+      <ScreenResolution Name="ID_RESOLUTION_HD720P" />
+    </ScreenResolutions>
+  </App>
+</Deployment>
+<!-- WPSDK Version 8.0.9900 -->
