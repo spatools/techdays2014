@@ -4,8 +4,8 @@
     <Languages xmlns="">
         <Language code="en-US" />
     </Languages>
-    <App Author="TechDays author" BitsPerPixel="32" Description="Apache Cordova for Windows Phone" Genre="apps.normal" ProductID="{0DE1F6A0-2E15-4939-A3E4-F54A59B3FE07}" Publisher="TechDays" PublisherID="{db093ed5-53b1-45f7-af72-751e8f36ab80}" RuntimeType="Silverlight" Title="TechDays" Version="0.0.1" xmlns="">
-        <IconPath IsRelative="true" IsResource="false">ApplicationIcon.png</IconPath>
+    <App Author="TechDays Author" BitsPerPixel="32" Description="TechDays 2014 SPA Demo" Genre="apps.normal" ProductID="{A03EE6AA-9A2C-4948-99F9-CD2C60C977E0}" Publisher="TechDays Publisher" PublisherID="{db093ed5-53b1-45f7-af72-751e8f36ab80}" RuntimeType="Silverlight" Title="TechDays" Version="0.0.1" xmlns="">
+        <IconPath IsRelative="true" IsResource="false">res/icons/icon-62-tile.png</IconPath>
         <Capabilities>
             <Capability Name="ID_CAP_WEBBROWSERCOMPONENT" />
             <Capability Name="ID_CAP_NETWORKING" />
@@ -14,19 +14,20 @@
             <DefaultTask Name="_default" NavigationPage="MainPage.xaml" />
         </Tasks>
         <Tokens>
-            <PrimaryToken TaskName="_default" TokenID="TechDaysToken">
+            <PrimaryToken TaskName="_default" TokenID="TechDays">
                 <TemplateFlip>
-                    <SmallImageURI IsRelative="true" IsResource="false">Background.png</SmallImageURI>
+                    <SmallImageURI IsRelative="true" IsResource="false">res/icons/icon-48.png</SmallImageURI>
                     <Count>0</Count>
-                    <BackgroundImageURI IsRelative="true" IsResource="false">Background.png</BackgroundImageURI>
-                    <Title>TechDays</Title>
-                    <BackContent />
-                    <BackBackgroundImageURI />
-                    <BackTitle />
-                    <LargeBackgroundImageURI />
-                    <LargeBackContent />
-                    <LargeBackBackgroundImageURI />
-                    <DeviceLockImageURI />
+                    <BackgroundImageURI IsRelative="true" IsResource="false">res/icons/icon-173-tile.png</BackgroundImageURI>
+                    <Title>TechDays 2014 SPA</Title>
+                    <BackContent>
+                    </BackContent>
+                    <BackBackgroundImageURI IsRelative="true" IsResource="false">
+                    </BackBackgroundImageURI>
+                    <BackTitle>
+                    </BackTitle>
+                    <DeviceLockImageURI IsRelative="true" IsResource="false">
+                    </DeviceLockImageURI>
                     <HasLarge>false</HasLarge>
                 </TemplateFlip>
             </PrimaryToken>

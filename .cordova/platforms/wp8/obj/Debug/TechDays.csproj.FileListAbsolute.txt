@@ -1,5 +1,3 @@
-C:\Projects\techdays2014\.cordova\platforms\wp8\Bin\Debug\ApplicationIcon.png
-C:\Projects\techdays2014\.cordova\platforms\wp8\Bin\Debug\Background.png
 C:\Projects\techdays2014\.cordova\platforms\wp8\Bin\Debug\org.spatools.techdays.dll
 C:\Projects\techdays2014\.cordova\platforms\wp8\Bin\Debug\org.spatools.techdays.pdb
 C:\Projects\techdays2014\.cordova\platforms\wp8\Bin\Debug\AppManifest.xaml

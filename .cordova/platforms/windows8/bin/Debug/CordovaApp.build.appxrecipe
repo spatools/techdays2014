@@ -8,98 +8,98 @@
     <PackageIdentityName>org.spatools.techdays</PackageIdentityName>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Projects\techdays2014\.cordova\platforms\windows8\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Projects\techdays-cordova\platforms\windows8\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Projects\techdays2014\.cordova\platforms\windows8\images\logo.png">
+    <AppxPackagedFile Include="C:\Projects\techdays-cordova\platforms\windows8\images\logo.png">
       <PackagePath>images\logo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Projects\techdays2014\.cordova\platforms\windows8\images\smalllogo.png">
+    <AppxPackagedFile Include="C:\Projects\techdays-cordova\platforms\windows8\images\smalllogo.png">
       <PackagePath>images\smalllogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Projects\techdays2014\.cordova\platforms\windows8\images\splashscreen.png">
+    <AppxPackagedFile Include="C:\Projects\techdays-cordova\platforms\windows8\images\splashscreen.png">
       <PackagePath>images\splashscreen.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Projects\techdays2014\.cordova\platforms\windows8\images\storelogo.png">
+    <AppxPackagedFile Include="C:\Projects\techdays-cordova\platforms\windows8\images\storelogo.png">
       <PackagePath>images\storelogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Projects\techdays2014\.cordova\platforms\windows8\www\assets\logo_mstechdays.jpg">
+    <AppxPackagedFile Include="C:\Projects\techdays-cordova\platforms\windows8\www\assets\logo_mstechdays.jpg">
       <PackagePath>www\assets\logo_mstechdays.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Projects\techdays2014\.cordova\platforms\windows8\www\cordova.js">
+    <AppxPackagedFile Include="C:\Projects\techdays-cordova\platforms\windows8\www\cordova.js">
       <PackagePath>www\cordova.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Projects\techdays2014\.cordova\platforms\windows8\www\cordova_plugins.js">
+    <AppxPackagedFile Include="C:\Projects\techdays-cordova\platforms\windows8\www\cordova_plugins.js">
       <PackagePath>www\cordova_plugins.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Projects\techdays2014\.cordova\platforms\windows8\www\js\app.js">
+    <AppxPackagedFile Include="C:\Projects\techdays-cordova\platforms\windows8\www\js\app.js">
       <PackagePath>www\js\app.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Projects\techdays2014\.cordova\platforms\windows8\www\js\libs.js">
+    <AppxPackagedFile Include="C:\Projects\techdays-cordova\platforms\windows8\www\js\libs.js">
       <PackagePath>www\js\libs.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Projects\techdays2014\.cordova\platforms\windows8\www\plugins\org.apache.cordova.dialogs\src\windows8\NotificationProxy.js">
+    <AppxPackagedFile Include="C:\Projects\techdays-cordova\platforms\windows8\www\plugins\org.apache.cordova.dialogs\src\windows8\NotificationProxy.js">
       <PackagePath>www\plugins\org.apache.cordova.dialogs\src\windows8\NotificationProxy.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Projects\techdays2014\.cordova\platforms\windows8\www\plugins\org.apache.cordova.dialogs\www\notification.js">
+    <AppxPackagedFile Include="C:\Projects\techdays-cordova\platforms\windows8\www\plugins\org.apache.cordova.dialogs\www\notification.js">
       <PackagePath>www\plugins\org.apache.cordova.dialogs\www\notification.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Projects\techdays2014\.cordova\platforms\windows8\www\css\app.css">
+    <AppxPackagedFile Include="C:\Projects\techdays-cordova\platforms\windows8\www\css\app.css">
       <PackagePath>www\css\app.css</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Projects\techdays2014\.cordova\platforms\windows8\www\css\libs.css">
+    <AppxPackagedFile Include="C:\Projects\techdays-cordova\platforms\windows8\www\css\libs.css">
       <PackagePath>www\css\libs.css</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Projects\techdays2014\.cordova\platforms\windows8\www\css\platform.css">
+    <AppxPackagedFile Include="C:\Projects\techdays-cordova\platforms\windows8\www\css\platform.css">
       <PackagePath>www\css\platform.css</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Projects\techdays2014\.cordova\platforms\windows8\www\fonts\fontawesome-webfont.eot">
+    <AppxPackagedFile Include="C:\Projects\techdays-cordova\platforms\windows8\www\fonts\fontawesome-webfont.eot">
       <PackagePath>www\fonts\fontawesome-webfont.eot</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Projects\techdays2014\.cordova\platforms\windows8\www\fonts\glyphicons-halflings-regular.eot">
+    <AppxPackagedFile Include="C:\Projects\techdays-cordova\platforms\windows8\www\fonts\glyphicons-halflings-regular.eot">
       <PackagePath>www\fonts\glyphicons-halflings-regular.eot</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Projects\techdays2014\.cordova\platforms\windows8\www\fonts\fontawesome-webfont.svg">
+    <AppxPackagedFile Include="C:\Projects\techdays-cordova\platforms\windows8\www\fonts\fontawesome-webfont.svg">
       <PackagePath>www\fonts\fontawesome-webfont.svg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Projects\techdays2014\.cordova\platforms\windows8\www\fonts\glyphicons-halflings-regular.svg">
+    <AppxPackagedFile Include="C:\Projects\techdays-cordova\platforms\windows8\www\fonts\glyphicons-halflings-regular.svg">
       <PackagePath>www\fonts\glyphicons-halflings-regular.svg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Projects\techdays2014\.cordova\platforms\windows8\www\fonts\fontawesome-webfont.ttf">
+    <AppxPackagedFile Include="C:\Projects\techdays-cordova\platforms\windows8\www\fonts\fontawesome-webfont.ttf">
       <PackagePath>www\fonts\fontawesome-webfont.ttf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Projects\techdays2014\.cordova\platforms\windows8\www\fonts\glyphicons-halflings-regular.ttf">
+    <AppxPackagedFile Include="C:\Projects\techdays-cordova\platforms\windows8\www\fonts\glyphicons-halflings-regular.ttf">
       <PackagePath>www\fonts\glyphicons-halflings-regular.ttf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Projects\techdays2014\.cordova\platforms\windows8\www\fonts\fontawesome-webfont.woff">
+    <AppxPackagedFile Include="C:\Projects\techdays-cordova\platforms\windows8\www\fonts\fontawesome-webfont.woff">
       <PackagePath>www\fonts\fontawesome-webfont.woff</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Projects\techdays2014\.cordova\platforms\windows8\www\fonts\glyphicons-halflings-regular.woff">
+    <AppxPackagedFile Include="C:\Projects\techdays-cordova\platforms\windows8\www\fonts\glyphicons-halflings-regular.woff">
       <PackagePath>www\fonts\glyphicons-halflings-regular.woff</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Projects\techdays2014\.cordova\platforms\windows8\www\fonts\FontAwesome.otf">
+    <AppxPackagedFile Include="C:\Projects\techdays-cordova\platforms\windows8\www\fonts\FontAwesome.otf">
       <PackagePath>www\fonts\FontAwesome.otf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Projects\techdays2014\.cordova\platforms\windows8\www\index.html">
+    <AppxPackagedFile Include="C:\Projects\techdays-cordova\platforms\windows8\www\index.html">
       <PackagePath>www\index.html</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Projects\techdays2014\.cordova\platforms\windows8\www\LICENSE">
+    <AppxPackagedFile Include="C:\Projects\techdays-cordova\platforms\windows8\www\LICENSE">
       <PackagePath>www\LICENSE</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Projects\techdays2014\.cordova\platforms\windows8\www\NOTICE">
+    <AppxPackagedFile Include="C:\Projects\techdays-cordova\platforms\windows8\www\NOTICE">
       <PackagePath>www\NOTICE</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Projects\techdays2014\.cordova\platforms\windows8\www\README.md">
+    <AppxPackagedFile Include="C:\Projects\techdays-cordova\platforms\windows8\www\README.md">
       <PackagePath>www\README.md</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Projects\techdays2014\.cordova\platforms\windows8\bin\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Projects\techdays-cordova\platforms\windows8\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

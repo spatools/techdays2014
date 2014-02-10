@@ -22,8 +22,8 @@
   </Resources>
   <Applications>
     <Application Id="org.spatools.techdays" StartPage="www/index.html">
-      <VisualElements BackgroundColor="#464646" Description="CordovaApp" DisplayName="TechDays" ForegroundText="light" Logo="images\logo.png" SmallLogo="images\smalllogo.png">
-        <DefaultTile ShowName="allLogos" />
+      <VisualElements BackgroundColor="#464646" Description="TechDays 2014 SPA Demo" DisplayName="TechDays" ForegroundText="light" Logo="images\logo.png" SmallLogo="images\smalllogo.png">
+        <DefaultTile ShortName="TechDays 2014 SPA" ShowName="logoOnly" />
         <SplashScreen Image="images\splashscreen.png" />
       </VisualElements>
     </Application>

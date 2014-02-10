@@ -22,7 +22,7 @@ package org.spatools.techdays;
 import android.os.Bundle;
 import org.apache.cordova.*;
 
-public class TechDays extends CordovaActivity 
+public class techdays extends CordovaActivity 
 {
     @Override
     public void onCreate(Bundle savedInstanceState)
