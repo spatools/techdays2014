@@ -12,9 +12,11 @@
     "prismjs": "*",
     "require-css": "~0.1.2",
     "promise-ext": "~0.2.6",
-    "geomath": "~0.1.0"
+    "geomath": "~0.1.0",
+    "jquery": "2.1.0"
   },
   "resolutions": {
-    "requirejs": "~2.1.10"
+    "requirejs": "~2.1.10",
+    "jquery": "2.1.0"
   }
 }
