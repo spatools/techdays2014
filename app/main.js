@@ -34,10 +34,11 @@ requirejs.config({
 
 //>>excludeStart("build", true);
 var DEBUG = true,
-    CORDOVA = false;
+    CORDOVA = false,
+    WIN8 = false;
 //>>excludeEnd("build");
 
-define(['durandal/system', 'durandal/app', 'durandal/viewLocator', 'modules/initializer', 'bootstrap'],  function (system, app, viewLocator, initializer) {
+define(['durandal/system', 'durandal/app', 'durandal/viewLocator', 'durandal/viewEngine', 'modules/initializer', 'bootstrap'],  function (system, app, viewLocator, viewEngine, initializer) {
     //>>excludeStart("build", true);
     system.debug(true);
     //>>excludeEnd("build");
@@ -49,6 +50,13 @@ define(['durandal/system', 'durandal/app', 'durandal/viewLocator', 'modules/init
         dialog: true,
         widget: true
     });
+
+    if (WIN8) {
+        var parser = viewEngine.parseMarkup;
+        viewEngine.parseMarkup = function (markup) {
+            return MSApp.execUnsafeLocalFunction(function () { return parser(markup); });
+        };
+    }
 
     app.start()
         .then(initializer.initialize)
