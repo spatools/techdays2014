@@ -203,18 +203,6 @@
         </PostBuildEvent>
     </PropertyGroup>
     <ItemGroup>
-        <Content Include="www\cordova.js" />
-    </ItemGroup>
-    <ItemGroup>
-        <Content Include="www\LICENSE" />
-    </ItemGroup>
-    <ItemGroup>
-        <Content Include="www\NOTICE" />
-    </ItemGroup>
-    <ItemGroup>
-        <Content Include="www\README.md" />
-    </ItemGroup>
-    <ItemGroup>
         <Compile Include="Plugins\org.apache.cordova.dialogs\Notification.cs" />
     </ItemGroup>
     <ItemGroup>
@@ -227,9 +215,69 @@
         <Content Include="Plugins\org.apache.cordova.dialogs\notification-beep.wav" />
     </ItemGroup>
     <ItemGroup>
-        <Content Include="www\plugins\org.apache.cordova.dialogs\www\notification.js" />
+        <Content Include="www\assets\logo_mstechdays.jpg" />
+    </ItemGroup>
+    <ItemGroup>
+        <Content Include="www\cordova.js" />
     </ItemGroup>
     <ItemGroup>
         <Content Include="www\cordova_plugins.js" />
+    </ItemGroup>
+    <ItemGroup>
+        <Content Include="www\css\app.css" />
+    </ItemGroup>
+    <ItemGroup>
+        <Content Include="www\css\libs.css" />
+    </ItemGroup>
+    <ItemGroup>
+        <Content Include="www\css\platform.css" />
+    </ItemGroup>
+    <ItemGroup>
+        <Content Include="www\fonts\fontawesome-webfont.eot" />
+    </ItemGroup>
+    <ItemGroup>
+        <Content Include="www\fonts\fontawesome-webfont.svg" />
+    </ItemGroup>
+    <ItemGroup>
+        <Content Include="www\fonts\fontawesome-webfont.ttf" />
+    </ItemGroup>
+    <ItemGroup>
+        <Content Include="www\fonts\fontawesome-webfont.woff" />
+    </ItemGroup>
+    <ItemGroup>
+        <Content Include="www\fonts\FontAwesome.otf" />
+    </ItemGroup>
+    <ItemGroup>
+        <Content Include="www\fonts\glyphicons-halflings-regular.eot" />
+    </ItemGroup>
+    <ItemGroup>
+        <Content Include="www\fonts\glyphicons-halflings-regular.svg" />
+    </ItemGroup>
+    <ItemGroup>
+        <Content Include="www\fonts\glyphicons-halflings-regular.ttf" />
+    </ItemGroup>
+    <ItemGroup>
+        <Content Include="www\fonts\glyphicons-halflings-regular.woff" />
+    </ItemGroup>
+    <ItemGroup>
+        <Content Include="www\index.html" />
+    </ItemGroup>
+    <ItemGroup>
+        <Content Include="www\js\app.js" />
+    </ItemGroup>
+    <ItemGroup>
+        <Content Include="www\js\libs.js" />
+    </ItemGroup>
+    <ItemGroup>
+        <Content Include="www\LICENSE" />
+    </ItemGroup>
+    <ItemGroup>
+        <Content Include="www\NOTICE" />
+    </ItemGroup>
+    <ItemGroup>
+        <Content Include="www\plugins\org.apache.cordova.dialogs\www\notification.js" />
+    </ItemGroup>
+    <ItemGroup>
+        <Content Include="www\README.md" />
     </ItemGroup>
 </Project>
