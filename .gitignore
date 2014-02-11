@@ -18,3 +18,8 @@ bld/
 dist/
 publish/
 .build/
+[Dd]ebug/
+[Rr]elease/
+[Oo]bj/
+[Bb]in/
+x64/
